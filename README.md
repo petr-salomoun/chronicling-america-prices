@@ -60,6 +60,12 @@ This project applies modern LLMs to that problem: reading OCR text, denoising it
 
 ---
 
+## Data
+
+The processed data is not included in this repository due to its size. To generate the data, you will need to run the processing pipeline as described in the `GUIDE.md` file.
+
+---
+
 ## Repository Structure
 
 ```
