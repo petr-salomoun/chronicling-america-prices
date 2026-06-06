@@ -1,0 +1,195 @@
+2026-04-08 13:31:40 [INFO] ============================================================
+2026-04-08 13:31:40 [INFO] Chronicling America — Local OCR for Missing Pages
+2026-04-08 13:31:40 [INFO]   Output:    /home/salomounp/private/AI/science/chronicling_america/data
+2026-04-08 13:31:40 [INFO]   Years:     1907–1963
+2026-04-08 13:31:40 [INFO]   Workers:   8
+2026-04-08 13:31:40 [INFO]   Tessdata:  /home/salomounp/private/AI/science/chronicling_america/tessdata
+2026-04-08 13:31:40 [INFO] ============================================================
+2026-04-08 13:31:40 [INFO] Resumed OCR progress from data/raw/_ocr_progress.json
+2026-04-08 13:31:40 [INFO] Year 1907: queued 430 issues for OCR.
+2026-04-08 13:31:40 [INFO] Year 1908: queued 440 issues for OCR.
+2026-04-08 13:31:40 [INFO] Year 1909: queued 440 issues for OCR.
+2026-04-08 13:31:40 [INFO] Year 1910: queued 440 issues for OCR.
+2026-04-08 13:31:40 [INFO] Year 1911: queued 440 issues for OCR.
+2026-04-08 13:31:40 [INFO] Year 1912: queued 440 issues for OCR.
+2026-04-08 13:31:40 [INFO] Year 1913: queued 440 issues for OCR.
+2026-04-08 13:31:40 [INFO] Year 1914: queued 440 issues for OCR.
+2026-04-08 13:31:40 [INFO] Year 1915: queued 440 issues for OCR.
+2026-04-08 13:31:40 [INFO] Year 1916: queued 440 issues for OCR.
+2026-04-08 13:31:40 [INFO] Year 1917: queued 440 issues for OCR.
+2026-04-08 13:31:40 [INFO] Year 1918: queued 440 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1919: queued 440 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1920: queued 400 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1921: queued 400 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1922: queued 360 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1923: queued 160 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1924: queued 160 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1925: queued 120 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1926: queued 120 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1927: queued 120 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1928: queued 80 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1929: queued 80 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1930: queued 80 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1931: queued 80 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1932: queued 80 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1933: queued 80 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1934: queued 120 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1935: queued 120 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1936: queued 120 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1937: queued 80 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1938: queued 80 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1939: queued 80 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1940: queued 80 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1941: queued 120 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1942: queued 120 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1943: queued 120 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1944: queued 120 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1945: queued 120 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1946: queued 80 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1947: queued 80 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1948: queued 80 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1949: queued 80 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1950: queued 80 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1951: queued 80 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1952: queued 80 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1953: queued 80 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1954: queued 80 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1955: queued 80 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1956: queued 40 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1957: queued 40 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1958: queued 40 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1959: queued 40 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1960: queued 40 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1961: queued 40 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1962: queued 40 issues for OCR.
+2026-04-08 13:31:41 [INFO] Year 1963: queued 40 issues for OCR.
+2026-04-08 13:31:41 [INFO] Starting 8 worker(s) for 10430 pending issue(s) across 57 year(s)...
+2026-04-08 13:31:41 [INFO] [W1] 2004260421/1907-01-04
+2026-04-08 13:31:41 [INFO] [W2] 2004260421/1907-01-11
+2026-04-08 13:31:41 [INFO] [W3] 2004260421/1907-01-18
+2026-04-08 13:31:41 [INFO] [W4] 2004260421/1907-01-25
+2026-04-08 13:31:41 [INFO] [W5] 2004260421/1907-02-01
+2026-04-08 13:31:41 [INFO] [W6] 2004260421/1907-02-08
+2026-04-08 13:31:41 [INFO] [W2] 2004260421/1907-02-15
+2026-04-08 13:31:41 [INFO] [W3] 2004260421/1907-02-22
+2026-04-08 13:31:41 [INFO] [W7] 2004260421/1907-03-01
+2026-04-08 13:31:41 [INFO] [W8] 2004260421/1907-03-15
+2026-04-08 13:31:41 [INFO] OCR progress: 22023 pages OCR'd (22012 with text), 69447 skipped, 454 failed, 16270 issues, years done: 137
+2026-04-08 13:31:41 [INFO] [W4] 2004260421/1907-03-22
+2026-04-08 13:31:41 [INFO] [W1] 2004260421/1907-03-29
+2026-04-08 13:31:41 [INFO] [W5] 2004260421/1907-04-05
+2026-04-08 13:31:41 [INFO] [W6] 2004260421/1907-04-12
+2026-04-08 13:31:41 [INFO] [W2] 2004260421/1907-04-19
+2026-04-08 13:31:41 [INFO] [W3] 2004260421/1907-04-26
+2026-04-08 13:31:41 [INFO] [W8] 2004260421/1907-05-03
+2026-04-08 13:31:41 [INFO] [W7] 2004260421/1907-05-10
+2026-04-08 13:31:41 [INFO] [W1] 2004260421/1907-05-17
+2026-04-08 13:31:41 [INFO] [W4] 2004260421/1907-05-24
+2026-04-08 13:31:41 [INFO] OCR progress: 22023 pages OCR'd (22012 with text), 69487 skipped, 454 failed, 16280 issues, years done: 137
+2026-04-08 13:31:41 [INFO] [W6] 2004260421/1907-05-31
+2026-04-08 13:31:41 [INFO] [W3] 2004260421/1907-06-07
+2026-04-08 13:31:41 [INFO] [W2] 2004260421/1907-06-14
+2026-04-08 13:31:41 [INFO] [W4] 2004260421/1907-06-21
+2026-04-08 13:31:41 [INFO] [W1] 2004260421/1907-06-28
+2026-04-08 13:31:41 [INFO] [W8] 2004260421/1907-07-05
+2026-04-08 13:31:41 [INFO] [W5] 2004260421/1907-07-12
+2026-04-08 13:31:41 [INFO] [W7] 2004260421/1907-07-19
+2026-04-08 13:31:41 [INFO] [W3] 2004260421/1907-07-26
+2026-04-08 13:31:41 [INFO] [W6] 2004260421/1907-08-02
+2026-04-08 13:31:41 [INFO] OCR progress: 22023 pages OCR'd (22012 with text), 69527 skipped, 454 failed, 16290 issues, years done: 137
+2026-04-08 13:31:41 [INFO] [W2] 2004260421/1907-08-09
+2026-04-08 13:31:41 [INFO] [W8] 2004260421/1907-08-16
+2026-04-08 13:31:41 [INFO] [W4] 2004260421/1907-08-23
+2026-04-08 13:31:41 [INFO] [W5] 2004260421/1907-08-30
+2026-04-08 13:31:41 [INFO] [W1] 2004260421/1907-09-06
+2026-04-08 13:31:41 [INFO] [W3] 2004260421/1907-09-13
+2026-04-08 13:31:41 [INFO] [W7] 2004260421/1907-09-20
+2026-04-08 13:31:41 [INFO] [W6] 2004260421/1907-09-27
+2026-04-08 13:31:41 [INFO] [W2] 2004260421/1907-10-04
+2026-04-08 13:31:41 [INFO] [W8] 2004260421/1907-10-25
+2026-04-08 13:31:41 [INFO] OCR progress: 22023 pages OCR'd (22012 with text), 69567 skipped, 454 failed, 16300 issues, years done: 137
+2026-04-08 13:31:41 [INFO] [W5] 2004260421/1907-11-01
+2026-04-08 13:31:41 [INFO] [W4] 2004260421/1907-11-08
+2026-04-08 13:31:41 [INFO] [W8] 2004260421/1907-11-15
+2026-04-08 13:31:41 [INFO] [W1] 2004260421/1907-11-22
+2026-04-08 13:31:41 [INFO] [W2] 2004260421/1907-11-29
+2026-04-08 13:31:41 [INFO] [W3] 2004260421/1907-12-06
+2026-04-08 13:31:41 [INFO] [W7] 2004260421/1907-12-13
+2026-04-08 13:31:41 [INFO] [W5] 2004260421/1907-12-20
+2026-04-08 13:31:41 [INFO] [W6] 2004260421/1907-12-27
+2026-04-08 13:31:41 [INFO] [W4] 2010218519/1907-03-16
+2026-04-08 13:31:41 [INFO] OCR progress: 22023 pages OCR'd (22012 with text), 69607 skipped, 454 failed, 16310 issues, years done: 137
+2026-04-08 13:31:41 [INFO] [W8] 2010218519/1907-03-23
+2026-04-08 13:31:41 [INFO] [W3] 2010218519/1907-03-30
+2026-04-08 13:31:41 [INFO] [W7] 2010218519/1907-04-06
+2026-04-08 13:31:41 [INFO] [W1] 2010218519/1907-04-13
+2026-04-08 13:31:41 [INFO] [W2] 2010218519/1907-04-20
+2026-04-08 13:31:41 [INFO] [W5] 2010218519/1907-04-27
+2026-04-08 13:31:41 [INFO] [W6] 2010218519/1907-05-04
+2026-04-08 13:32:30 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907041301/0406.jp2 — ('Connection broken: IncompleteRead(7227 bytes read, 2955927 more expected)', IncompleteRead(7227 bytes read, 2955927 more expected))
+2026-04-08 13:33:12 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907050401/0446.jp2 — ('Connection broken: IncompleteRead(15846 bytes read, 2871145 more expected)', IncompleteRead(15846 bytes read, 2871145 more expected))
+2026-04-08 13:34:03 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907033001/0375.jp2 — ('Connection broken: IncompleteRead(15846 bytes read, 2976053 more expected)', IncompleteRead(15846 bytes read, 2976053 more expected))
+2026-04-08 13:34:46 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907031601/0338.jp2 — ('Connection broken: IncompleteRead(15846 bytes read, 2981953 more expected)', IncompleteRead(15846 bytes read, 2981953 more expected))
+2026-04-08 13:35:16 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907040601/0391.jp2 — ('Connection broken: IncompleteRead(7227 bytes read, 2930061 more expected)', IncompleteRead(7227 bytes read, 2930061 more expected))
+2026-04-08 13:35:41 [INFO] OCR progress: 22023 pages OCR'd (22012 with text), 69632 skipped, 454 failed, 16316 issues, years done: 137
+2026-04-08 13:36:12 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907050401/0447.jp2 — ('Connection broken: IncompleteRead(7923 bytes read, 2907644 more expected)', IncompleteRead(7923 bytes read, 2907644 more expected))
+2026-04-08 13:37:23 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907041301/0408.jp2 — ('Connection broken: IncompleteRead(15846 bytes read, 2963390 more expected)', IncompleteRead(15846 bytes read, 2963390 more expected))
+2026-04-08 13:38:18 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907042001/0423.jp2 — ('Connection broken: IncompleteRead(7923 bytes read, 2995391 more expected)', IncompleteRead(7923 bytes read, 2995391 more expected))
+2026-04-08 13:39:02 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907031601/0345.jp2 — ('Connection broken: IncompleteRead(7923 bytes read, 2986058 more expected)', IncompleteRead(7923 bytes read, 2986058 more expected))
+2026-04-08 13:39:02 [INFO] [W4] 2010218519/1907-05-11
+2026-04-08 13:39:41 [INFO] OCR progress: 22024 pages OCR'd (22013 with text), 69645 skipped, 456 failed, 16317 issues, years done: 137
+2026-04-08 13:40:00 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907042701/0433.jp2 — ('Connection broken: IncompleteRead(7923 bytes read, 2926983 more expected)', IncompleteRead(7923 bytes read, 2926983 more expected))
+2026-04-08 13:40:42 [WARNING] HTTP 520: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907040601/0393.jp2
+2026-04-08 13:41:54 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907050401/0449.jp2 — ('Connection broken: IncompleteRead(7923 bytes read, 2905230 more expected)', IncompleteRead(7923 bytes read, 2905230 more expected))
+2026-04-08 13:43:41 [INFO] OCR progress: 22024 pages OCR'd (22013 with text), 69645 skipped, 456 failed, 16317 issues, years done: 137
+2026-04-08 13:43:49 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907050401/0451.jp2 — ('Connection broken: IncompleteRead(7923 bytes read, 2915521 more expected)', IncompleteRead(7923 bytes read, 2915521 more expected))
+2026-04-08 13:45:20 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907051101/0466.jp2 — ('Connection broken: IncompleteRead(15846 bytes read, 2776583 more expected)', IncompleteRead(15846 bytes read, 2776583 more expected))
+2026-04-08 13:46:35 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907050401/0453.jp2 — ('Connection broken: IncompleteRead(7923 bytes read, 2941820 more expected)', IncompleteRead(7923 bytes read, 2941820 more expected))
+2026-04-08 13:46:48 [INFO] [W3] 2010218519/1907-05-18
+2026-04-08 13:47:47 [INFO] OCR progress: 22030 pages OCR'd (22019 with text), 69654 skipped, 457 failed, 16318 issues, years done: 137
+2026-04-08 13:47:48 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907050401/0454.jp2 — ('Connection broken: IncompleteRead(7923 bytes read, 2924719 more expected)', IncompleteRead(7923 bytes read, 2924719 more expected))
+2026-04-08 13:48:09 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907051801/0483.jp2 — ('Connection broken: IncompleteRead(7227 bytes read, 2796036 more expected)', IncompleteRead(7227 bytes read, 2796036 more expected))
+2026-04-08 13:48:18 [INFO] [W1] 2010218519/1907-05-25
+2026-04-08 13:49:12 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907052501/0505.jp2 — ('Connection broken: IncompleteRead(7923 bytes read, 2782085 more expected)', IncompleteRead(7923 bytes read, 2782085 more expected))
+2026-04-08 13:49:43 [INFO] OCR progress: 22042 pages OCR'd (22031 with text), 69670 skipped, 461 failed, 16320 issues, years done: 137
+2026-04-08 13:49:43 [INFO] [W7] 2010218519/1907-06-01
+2026-04-08 13:49:57 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907042001/0428.jp2 — ('Connection broken: IncompleteRead(80844 bytes read, 2907770 more expected)', IncompleteRead(80844 bytes read, 2907770 more expected))
+2026-04-08 13:52:19 [INFO] OCR progress: 22042 pages OCR'd (22031 with text), 69670 skipped, 461 failed, 16320 issues, years done: 137
+2026-04-08 13:53:20 [INFO] [W2] 2010218519/1907-06-08
+2026-04-08 13:54:47 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907042701/0439.jp2 — ('Connection broken: IncompleteRead(7923 bytes read, 2913306 more expected)', IncompleteRead(7923 bytes read, 2913306 more expected))
+2026-04-08 13:56:48 [INFO] OCR progress: 22049 pages OCR'd (22038 with text), 69677 skipped, 463 failed, 16321 issues, years done: 137
+2026-04-08 13:59:01 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907051101/0468.jp2 — ('Connection broken: IncompleteRead(15150 bytes read, 2762563 more expected)', IncompleteRead(15150 bytes read, 2762563 more expected))
+2026-04-08 14:01:23 [INFO] OCR progress: 22049 pages OCR'd (22038 with text), 69677 skipped, 463 failed, 16321 issues, years done: 137
+2026-04-08 14:05:23 [INFO] OCR progress: 22049 pages OCR'd (22038 with text), 69677 skipped, 463 failed, 16321 issues, years done: 137
+2026-04-08 14:09:31 [INFO] OCR progress: 22049 pages OCR'd (22038 with text), 69677 skipped, 463 failed, 16321 issues, years done: 137
+2026-04-08 14:13:41 [INFO] OCR progress: 22049 pages OCR'd (22038 with text), 69677 skipped, 463 failed, 16321 issues, years done: 137
+2026-04-08 14:16:07 [INFO] [W8] 2010218519/1907-06-15
+2026-04-08 14:18:18 [INFO] OCR progress: 22057 pages OCR'd (22046 with text), 69689 skipped, 463 failed, 16322 issues, years done: 137
+2026-04-08 14:22:43 [INFO] OCR progress: 22057 pages OCR'd (22046 with text), 69689 skipped, 463 failed, 16322 issues, years done: 137
+2026-04-08 14:26:43 [INFO] OCR progress: 22057 pages OCR'd (22046 with text), 69689 skipped, 463 failed, 16322 issues, years done: 137
+2026-04-08 14:31:03 [INFO] OCR progress: 22057 pages OCR'd (22046 with text), 69689 skipped, 463 failed, 16322 issues, years done: 137
+2026-04-08 14:33:24 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907060801/0544.jp2 — ('Connection broken: IncompleteRead(15846 bytes read, 2785665 more expected)', IncompleteRead(15846 bytes read, 2785665 more expected))
+2026-04-08 14:35:28 [INFO] OCR progress: 22057 pages OCR'd (22046 with text), 69689 skipped, 463 failed, 16322 issues, years done: 137
+2026-04-08 14:39:28 [INFO] OCR progress: 22057 pages OCR'd (22046 with text), 69689 skipped, 463 failed, 16322 issues, years done: 137
+2026-04-08 14:43:39 [INFO] OCR progress: 22057 pages OCR'd (22046 with text), 69689 skipped, 463 failed, 16322 issues, years done: 137
+2026-04-08 14:45:55 [INFO] [W5] 2010218519/1907-06-22
+2026-04-08 14:45:58 [INFO] [W6] 2010218519/1907-06-29
+2026-04-08 14:46:23 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907061501/0566.jp2 — ('Connection broken: IncompleteRead(7227 bytes read, 2836820 more expected)', IncompleteRead(7227 bytes read, 2836820 more expected))
+2026-04-08 14:47:09 [WARNING] HTTP 525: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907062201/0580.jp2
+2026-04-08 14:47:39 [INFO] OCR progress: 22075 pages OCR'd (22064 with text), 69695 skipped, 471 failed, 16324 issues, years done: 137
+2026-04-08 14:47:41 [INFO] [W6] 2010218519/1907-07-06
+2026-04-08 14:48:20 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907061501/0567.jp2 — ('Connection broken: IncompleteRead(7202 bytes read, 2804233 more expected)', IncompleteRead(7202 bytes read, 2804233 more expected))
+2026-04-08 14:48:20 [INFO] [W8] 2010218519/1907-07-13
+2026-04-08 14:49:27 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907060101/0535.jp2 — ('Connection broken: IncompleteRead(15846 bytes read, 2781492 more expected)', IncompleteRead(15846 bytes read, 2781492 more expected))
+2026-04-08 14:49:27 [INFO] [W7] 2010218519/1907-07-20
+2026-04-08 14:50:14 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907051101/0478.jp2 — ('Connection broken: IncompleteRead(55342 bytes read, 2702964 more expected)', IncompleteRead(55342 bytes read, 2702964 more expected))
+2026-04-08 14:51:02 [INFO] [W4] 2010218519/1907-07-27
+2026-04-08 14:51:24 [INFO] [W5] 2010218519/1907-08-03
+2026-04-08 14:51:40 [INFO] OCR progress: 22098 pages OCR'd (22087 with text), 69747 skipped, 478 failed, 16329 issues, years done: 137
+2026-04-08 14:52:06 [INFO] OCR progress: 22107 pages OCR'd (22096 with text), 69753 skipped, 479 failed, 16330 issues, years done: 137
+2026-04-08 14:52:06 [INFO] [W1] 2010218519/1907-08-10
+2026-04-08 14:52:11 [INFO] Shutdown requested — finishing current pages then saving state...
+2026-04-08 14:53:08 [WARNING] Request failed: https://tile.loc.gov/storage-services/service/ndnp/uuml/batch_uuml_evans_ver02/data/2010218519/00237285694/1907072001/0642.jp2 — ('Connection broken: IncompleteRead(15150 bytes read, 2708491 more expected)', IncompleteRead(15150 bytes read, 2708491 more expected))
+2026-04-08 14:53:35 [INFO] OCR progress: 22135 pages OCR'd (22124 with text), 69793 skipped, 482 failed, 16331 issues, years done: 137
+2026-04-08 14:53:43 [INFO] OCR progress: 22142 pages OCR'd (22131 with text), 69821 skipped, 482 failed, 16331 issues, years done: 137
+2026-04-08 14:53:43 [INFO] OCR paused. Restart to resume.
