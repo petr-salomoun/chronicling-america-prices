@@ -16,7 +16,7 @@ To test the data, I've further extracted all price references and normalized the
 records with commodity classification, standardized units, and confidence scores.
 
 
-![Record Volume by Year](report_figures/fig1_volume_by_decade.png)
+![Raw Pages per Year](report_figures/fig1_raw_pages_per_year.png)
 
 ---
 
@@ -62,7 +62,15 @@ This project applies modern LLMs to that problem: reading OCR text, denoising it
 
 ## Data
 
-The processed data is not included in this repository due to its size. To generate the data, you will need to run the processing pipeline as described in the `GUIDE.md` file.
+The LLM-compressed OCR text (pass 0) is published as a GitHub release artifact:
+
+**[Download pass0_compressed_ocr.tar.gz (~265 MB)](https://github.com/petr-salomoun/chronicling-america-prices/releases/tag/v1.0)**
+
+This archive contains the denoised and compressed OCR for all 112 newspapers (1770–1963), reduced to ~20% of the original token volume while preserving all facts. It is the primary output of Stage 1 and represents the main LLM processing cost of this project.
+
+The raw OCR pages (`raw_ocr_pages.tar.gz`, ~1.4 GB) can be freely re-downloaded from the [Library of Congress Chronicling America API](https://chroniclingamerica.loc.gov/) at no LLM cost using the provided `download_chronicling_america.py` script.
+
+The final normalized price records (`data/pass2/prices/normalized.jsonl`) are regenerated from the compressed OCR by running the extraction and normalization pipeline (see `GUIDE.md`). The normalized dataset was not republished as an artifact because it is fully reproducible from the compressed OCR above.
 
 ---
 
